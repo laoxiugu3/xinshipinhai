@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laoxiugu3.github.io/xinshipinhai/sitemap.xml
